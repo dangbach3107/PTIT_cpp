@@ -1,2 +1,0 @@
-# PTIT-cpp
-# PTIT-cpp
